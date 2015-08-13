@@ -1,7 +1,7 @@
 {
   "name": "observ-toggle",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Toggle a boolean observable value",
   "license": "MIT",
   "repository": "bendrucker/observ-toggle",
