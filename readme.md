@@ -1,4 +1,4 @@
-# observ-toggle [![Build Status](https://travis-ci.org/bendrucker/observ-toggle.svg?branch=master)](https://travis-ci.org/bendrucker/observ-toggle)
+# observ-toggle [![Build Status](https://travis-ci.org/bendrucker/observ-toggle.svg?branch=master)](https://travis-ci.org/bendrucker/observ-toggle) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-toggle.svg)](https://greenkeeper.io/)
 
 > Toggle a boolean observable value
 
